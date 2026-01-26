@@ -6,6 +6,7 @@ A curated list of AI tools, MCP servers, skills, and workflows for Swift and iOS
 
 - [MCP Servers](#mcp-servers)
 - [Skills & Workflows](#skills--workflows)
+- [CLI Tools](#cli-tools)
 
 ## MCP Servers
 
@@ -19,3 +20,9 @@ A curated list of AI tools, MCP servers, skills, and workflows for Swift and iOS
 > Collections of prompts, skills, and agentic workflows designed for Swift coding.
 
 - [Axiom](https://charleswiltgen.github.io/Axiom/) - Battle-tested Claude Code skills, commands, and references for modern xOS development (Swift 6, SwiftUI, Apple Intelligence). Includes discipline-enforcing workflows and TDD practices.
+
+## CLI Tools
+
+> Command-line interfaces and utilities built for or compatible with AI agents.
+
+- [App Store Connect CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - A fast, lightweight, and AI-agent friendly CLI for App Store Connect. Automate TestFlight, Beta Testers, and more with JSON output designed for LLMs.
