@@ -26,3 +26,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 > Command-line interfaces and utilities built for or compatible with AI agents.
 
 - [App Store Connect CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - A fast, lightweight, and AI-agent friendly CLI for App Store Connect. Automate TestFlight, Beta Testers, and more with JSON output designed for LLMs.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aliosmanozturk1/awesome-swift-ai-tools&type=Date)](https://star-history.com/#aliosmanozturk1/awesome-swift-ai-tools&Date)
