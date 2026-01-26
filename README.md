@@ -1,6 +1,6 @@
 # Awesome Swift AI Tools
 
-A curated list of AI tools, MCP servers, skills, and workflows for Swift and iOS/macOS development.
+A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for Swift development. Speed up your iOS/macOS projects with Claude Code, Cursor, and more.
 
 ## Contents
 
