@@ -22,6 +22,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [Axiom](https://charleswiltgen.github.io/Axiom/) - Battle-tested Claude Code skills, commands, and references for modern xOS development (Swift 6, SwiftUI, Apple Intelligence). Includes discipline-enforcing workflows and TDD practices.
 - [Swift Concurrency Agent Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Expert guidance for any AI coding tool. Includes safe concurrency patterns, performance optimization tips, and Swift 6 migration strategies. Distilled from the Swift Concurrency Course.
 - [SwiftUI Expert Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - Expert guidance for modern SwiftUI APIs, state management, performance, and best practices. Distills practical knowledge into actionable references for agents.
+- [Claude Code Skills for Apple](https://github.com/rshankras/claude-code-apple-skills) - A comprehensive collection of 49+ skills for iOS, macOS, and Apple platform development. Includes generators for logging, analytics, auth flow, and ASO strategies.
 
 ## CLI Tools
 
