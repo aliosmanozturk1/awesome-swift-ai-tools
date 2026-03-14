@@ -14,6 +14,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 
 - [XcodeBuildMCP](https://www.xcodebuildmcp.com/) - AI-Powered Xcode Automation. Let AI assistants build, test, and debug your iOS apps autonomously by bridging the gap between AI agents and Xcode.
 - [Cupertino](https://github.com/mihaelamj/cupertino) - A local, structured, AI-ready documentation system for Apple platforms. Crawls and indexes Apple Developer documentation for offline access and AI integration.
+- [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) - An MCP server for searching Apple Developer Documentation, frameworks, APIs, sample code, and WWDC videos. Includes smart caching, platform compatibility analysis, and 1,260+ bundled WWDC session transcripts.
 
 ## Skills & Workflows
 
