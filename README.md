@@ -25,6 +25,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [Core Data Agent Skill](https://github.com/AvdLee/Core-Data-Agent-Skill) - Expert guidance for safe persistence, performance optimization, and schema migration in Core Data. Based on production apps and WWDC sessions.
 - [Claude Code Skills for Apple](https://github.com/rshankras/claude-code-apple-skills) - A comprehensive collection of 49+ skills for iOS, macOS, and Apple platform development. Includes generators for logging, analytics, auth flow, and ASO strategies.
 - [asc-screenshots](https://github.com/keremerkan/asc-screenshots) - AI agent skill that generates production-ready App Store screenshots. Designs ad-style marketing layouts with Apple device bezels, supports localization, and exports in asc-client compatible format.
+- [iOS Agent Skills](https://github.com/alpozcan/iOSAgentSkills) - 25 production-ready architectural skills for building modular iOS apps with Swift 6, SwiftUI, and Tuist. Covers concurrency, design systems, testing, StoreKit 2, on-device LLM, CI/CD, and more.
 
 ## CLI Tools
 
