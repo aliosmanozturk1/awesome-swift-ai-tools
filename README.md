@@ -30,6 +30,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [ASO & App Marketing Skills](https://github.com/Eronred/aso-skills) - 17 AI agent skills for App Store Optimization and app marketing. Covers keyword research, metadata optimization, competitor analysis, screenshot strategy, localization, and growth tactics. Powered by the Appeeky API.
 - [Claude Code ASO Skill](https://github.com/alirezarezvani/claude-code-aso-skill) - A multi-agent ASO system for Claude Code with 4 specialized agents. Generates copy-paste ready metadata for App Store and Google Play, keyword research, competitor analysis, and pre-launch checklists using the iTunes Search API.
 - [Swift Agent Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of community-maintained AI agent skills for Swift and Apple platform development. Organized by framework and area — SwiftUI, concurrency, testing, accessibility, security, and more.
+- [ShipSwift](https://github.com/signerlabs/ShipSwift) - An AI-native SwiftUI component library with production-ready animations, charts, UI components, and full-stack modules (auth, camera, paywall, chat). Includes an MCP recipe server and agent skills for AI-assisted development.
 
 ## CLI Tools
 
