@@ -39,6 +39,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 
 - [App Store Connect CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - A fast, lightweight, and AI-agent friendly CLI for App Store Connect. Automate TestFlight, Beta Testers, and more with JSON output designed for LLMs.
 - [asc-client](https://github.com/keremerkan/asc-client) - A CLI for the complete App Store release workflow — from Xcode archive to App Review submission. Covers versions, localizations, screenshots, IAPs, subscriptions, and provisioning. Ships with a built-in AI agent skill.
+- [AXe](https://github.com/cameroncooke/AXe) - A CLI tool for iOS Simulator automation using Apple's Accessibility APIs and HID. Supports touch, gestures, text input, hardware buttons, screenshots, video recording, and batch chaining. Ships with an agent skill.
 
 ## Star History
 
