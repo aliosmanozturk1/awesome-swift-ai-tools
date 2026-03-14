@@ -27,6 +27,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [asc-screenshots](https://github.com/keremerkan/asc-screenshots) - AI agent skill that generates production-ready App Store screenshots. Designs ad-style marketing layouts with Apple device bezels, supports localization, and exports in asc-client compatible format.
 - [iOS Agent Skills](https://github.com/alpozcan/iOSAgentSkills) - 25 production-ready architectural skills for building modular iOS apps with Swift 6, SwiftUI, and Tuist. Covers concurrency, design systems, testing, StoreKit 2, on-device LLM, CI/CD, and more.
 - [ASO & App Marketing Skills](https://github.com/Eronred/aso-skills) - 17 AI agent skills for App Store Optimization and app marketing. Covers keyword research, metadata optimization, competitor analysis, screenshot strategy, localization, and growth tactics. Powered by the Appeeky API.
+- [Claude Code ASO Skill](https://github.com/alirezarezvani/claude-code-aso-skill) - A multi-agent ASO system for Claude Code with 4 specialized agents. Generates copy-paste ready metadata for App Store and Google Play, keyword research, competitor analysis, and pre-launch checklists using the iTunes Search API.
 
 ## CLI Tools
 
