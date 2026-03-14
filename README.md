@@ -1,6 +1,12 @@
 # Awesome Swift AI Tools
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/aliosmanozturk1/awesome-swift-ai-tools?style=social)](https://github.com/aliosmanozturk1/awesome-swift-ai-tools/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aliosmanozturk1/awesome-swift-ai-tools/pulls)
+
 A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for Swift development. Speed up your iOS/macOS projects with Claude Code, Cursor, and more.
+
+**If you find this useful, please ⭐ star the repo — it helps others discover it!**
 
 ## Contents
 
@@ -42,6 +48,12 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [asc-client](https://github.com/keremerkan/asc-client) - A CLI for the complete App Store release workflow — from Xcode archive to App Review submission. Covers versions, localizations, screenshots, IAPs, subscriptions, and provisioning. Ships with a built-in AI agent skill.
 - [AXe](https://github.com/cameroncooke/AXe) - A CLI tool for iOS Simulator automation using Apple's Accessibility APIs and HID. Supports touch, gestures, text input, hardware buttons, screenshots, video recording, and batch chaining. Ships with an agent skill.
 
+## Contributing
+
+Found a tool that should be on this list? [Open a PR](https://github.com/aliosmanozturk1/awesome-swift-ai-tools/pulls) or [create an issue](https://github.com/aliosmanozturk1/awesome-swift-ai-tools/issues)! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## Star History
+
+⭐ If this list helped you, star the repo so others can find it too!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aliosmanozturk1/awesome-swift-ai-tools&type=Date)](https://star-history.com/#aliosmanozturk1/awesome-swift-ai-tools&Date)
