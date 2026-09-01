@@ -38,6 +38,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [Swift Agent Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of community-maintained AI agent skills for Swift and Apple platform development. Organized by framework and area — SwiftUI, concurrency, testing, accessibility, security, and more.
 - [ShipSwift](https://github.com/signerlabs/ShipSwift) - An AI-native SwiftUI component library with production-ready animations, charts, UI components, and full-stack modules (auth, camera, paywall, chat). Includes an MCP recipe server and agent skills for AI-assisted development.
 - [iOS Accessibility Agent Skill](https://github.com/dadederk/iOS-Accessibility-Agent-Skill) - Expert guidance for accessible iOS development. Covers VoiceOver (UIKit and SwiftUI), Dynamic Type, Voice Control, Switch Control, Full Keyboard Access, and inclusive design best practices.
+- [claude-ai-agents-ios](https://github.com/apexbymanish/claude-ai-agents-ios) - Claude Code subagents & skills for iOS/Swift/Xcode: architecture, testing, memory/performance, security, App Store readiness, and Tuist project generation, each reporting claims against a seven-tier evidence taxonomy.
 
 ## CLI Tools
 
