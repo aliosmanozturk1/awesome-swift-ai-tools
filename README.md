@@ -21,6 +21,7 @@ A curated list of AI tools, MCP servers, agents, skills, rules, and prompts for 
 - [Cupertino](https://github.com/mihaelamj/cupertino) - A local, structured, AI-ready documentation system for Apple platforms. Crawls and indexes Apple Developer documentation for offline access and AI integration.
 - [Apple Docs MCP](https://github.com/kimsungwhee/apple-docs-mcp) - An MCP server for searching Apple Developer Documentation, frameworks, APIs, sample code, and WWDC videos. Includes smart caching, platform compatibility analysis, and 1,260+ bundled WWDC session transcripts.
 - [sosumi.ai](https://github.com/NSHipster/sosumi.ai) - Converts Apple Developer documentation and HIG pages to AI-readable Markdown. Provides an MCP server, CLI, HTTP API, and WWDC session transcript support. Also proxies external Swift-DocC pages.
+- [agent-qa](https://vostride.com) — AI-driven iOS app testing via MCP with persistent memory, validated self-improvement, and run evidence.
 
 ## Skills & Workflows
 
